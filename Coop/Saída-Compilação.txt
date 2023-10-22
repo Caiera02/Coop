@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: Aula16, Configuração: Debug Any CPU ------
+1>C:\Users\Usuário\Downloads\Aula16 (1)\Aula16\Aula16\notebooks.cs(19,14,19,18): warning CS0169: O campo "notebooks.novo" nunca é usado
+1>  Aula16 -> C:\Users\Usuário\Downloads\Aula16 (1)\Aula16\Aula16\bin\Debug\Aula16.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 12:57 PM e levou 02,477 segundos ==========
