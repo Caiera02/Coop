@@ -1,0 +1,19 @@
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\bin\Debug\Aula16.exe.config
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\bin\Debug\Aula16.exe
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\bin\Debug\Aula16.pdb
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.csprojResolveAssemblyReference.cache
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.Form1.resources
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.Properties.Resources.resources
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.csproj.GenerateResource.Cache
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.exe
+c:\users\impacta\documents\visual studio 2017\Projects\Aula16\Aula16\obj\Debug\Aula16.pdb
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\bin\Debug\Aula16.exe.config
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\bin\Debug\Aula16.exe
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\bin\Debug\Aula16.pdb
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.csproj.AssemblyReference.cache
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.Form1.resources
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.Properties.Resources.resources
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.csproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.exe
+C:\Users\Usuário\Downloads\Aula16\Aula16\Aula16\obj\Debug\Aula16.pdb
